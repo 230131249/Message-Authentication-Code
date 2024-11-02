@@ -80,7 +80,10 @@ int main() {
 ```
 
 ## OUTPUT :
-![Screenshot 2024-10-18 135412](https://github.com/user-attachments/assets/305ac9a7-00c4-470f-9905-88af8edcffa4)
+
+![image](https://github.com/user-attachments/assets/1e8bdfe3-2ad7-43ad-b76a-8f6b996fdf76)
+
+
 
 
 ## RESULT :
