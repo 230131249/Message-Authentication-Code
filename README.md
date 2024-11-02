@@ -41,8 +41,8 @@ int main() {
     char decrypted[MAX_LEN];  // Decrypted message
 
     printf("\n **Simulation of MAC Algorithm**\n\n");
-    printf(" DEVELOPED BY : Devadarshan A S\n");
-    printf(" REG NO : 212222110007\n\n");
+    printf(" DEVELOPED BY : J Jayasuriya S\n");
+    printf(" REG NO : 212223230088\n\n");
 
     // Get plaintext message from the user
     printf("Enter the plaintext message: ");
